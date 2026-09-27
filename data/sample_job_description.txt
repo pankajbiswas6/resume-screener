@@ -1,0 +1,24 @@
+Job Title: Junior Machine Learning Engineer
+
+We are looking for a Junior Machine Learning Engineer to join our data science team.
+
+REQUIRED SKILLS
+- Strong programming skills in Python
+- Experience with Machine Learning and Deep Learning
+- Familiarity with TensorFlow or PyTorch
+- Experience with Natural Language Processing (NLP) is a plus
+- Working knowledge of SQL and relational databases (MySQL/PostgreSQL)
+- Experience with data analysis and data visualization
+- Familiarity with cloud platforms (AWS or Azure) is a plus
+- Version control experience with Git
+
+RESPONSIBILITIES
+- Build, train, and evaluate machine learning models
+- Work with large datasets, performing cleaning and analysis
+- Collaborate with cross-functional teams and communicate findings clearly
+- Deploy models and maintain code using Git-based workflows
+
+GOOD TO HAVE
+- Prior research publications in ML/NLP
+- Experience with Docker and Kubernetes
+- Strong problem solving and communication skills

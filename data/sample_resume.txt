@@ -1,0 +1,29 @@
+Alex Sharma
+B.Tech in Computer Science and Engineering, Sample State University (CGPA 8.50)
+
+SUMMARY
+Recent Computer Science graduate with strong foundations in Python, Machine Learning,
+and Natural Language Processing. Completed an AI/ML internship and one academic
+research project. Seeking software engineering and data science roles.
+
+TECHNICAL SKILLS
+Languages: Python, Java, C++, SQL
+ML/Data: TensorFlow, PyTorch, Scikit-learn, NLTK, Pandas, NumPy
+Databases: MySQL, PostgreSQL
+Cloud: AWS, IBM Cloud, Linux
+Other: Git, Docker basics, Data Visualization
+
+EXPERIENCE
+AI/ML Intern
+- Built and trained deep learning models using TensorFlow and PyTorch
+- Performed data analysis and data visualization on structured datasets
+- Worked with SQL databases (MySQL, PostgreSQL) to prepare training data
+
+RESEARCH
+- Contributed to a college research project applying NLP techniques to text classification
+
+EDUCATION
+B.Tech, Computer Science and Engineering, Sample State University — 2026
+
+SOFT SKILLS
+Communication, teamwork, problem solving, time management
